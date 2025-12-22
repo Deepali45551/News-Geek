@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "category": "Technology",
+      "title": "desdf",
+      "author": "deepali",
+      "image": "https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg",
+      "description": "sdsfdsg",
+      "id": 6
+    },
+    {
+      "category": "Entertainment",
+      "title": "jhjk",
+      "author": "hgjk",
+      "image": "https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg",
+      "description": "jkkl",
+      "id": 7
+    },
+    {
+      "category": "Business",
+      "title": "sdfds",
+      "author": "dsf",
+      "image": "https://www.pixelstalk.net/3840x2160-images-free-download/",
+      "description": "dsfd",
+      "id": 8
+    }
+  ]
+}
