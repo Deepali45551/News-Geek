@@ -18,7 +18,8 @@ export default function Navbar() {
             <h1 className="text-white text-xl font-bold">News Geek</h1>
 
             <div className="flex space-x-4">
-                
+
+
                 {categories.map((cat) => (
                     <Link to={`/category/${cat}`}
                         className="text-white hover:underline"
